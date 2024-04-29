@@ -1,0 +1,26 @@
+{
+  "name": "j0w0-wp-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "wp-scripts start",
+    "start:hot": "wp-scripts start --hot",
+    "build": "wp-scripts build",
+    "wp-env": "wp-env",
+    "format": "wp-scripts format",
+    "lint:style": "wp-scripts lint-style",
+    "lint:js": "wp-scripts lint-js"
+  },
+  "author": "j0w0",
+  "license": "ISC",
+  "devDependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@wordpress/env": "^9.0.0",
+    "@wordpress/scripts": "^26.19.0",
+    "bootstrap": "^5.3.2"
+  }
+}

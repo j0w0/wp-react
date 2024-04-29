@@ -1,0 +1,5 @@
+{
+  "name": "global",
+  "title": "Global",
+  "script": "file:./global.js"
+}
