@@ -1,5 +1,5 @@
 {
-  "name": "apps",
+  "name": "j0w0/apps",
   "title": "Apps",
-  "script": "file:./index.js"
+  "script": "file:index.js"
 }

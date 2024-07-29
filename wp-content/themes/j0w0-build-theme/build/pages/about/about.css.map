@@ -1,1 +1,0 @@
-{"version":3,"file":"pages/about/about.css","mappings":";;;AAAA;EACE;AACF,C","sources":["webpack://j0w0-wp-react/./src/pages/about/about.scss"],"sourcesContent":[".page-about {\n  background-color: gray;\n}\n"],"names":[],"sourceRoot":""}

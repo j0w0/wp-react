@@ -1,1 +1,0 @@
-{"version":3,"file":"apps/index.css","mappings":";;;;;;;AAAA;EACE;AACF,C","sources":["webpack://j0w0-wp-react/./src/apps/ExampleWebApp/ExampleWebApp.scss"],"sourcesContent":[".test-container {\n  background-color: yellow;\n}\n"],"names":[],"sourceRoot":""}

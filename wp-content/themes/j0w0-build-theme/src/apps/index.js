@@ -1,4 +1,4 @@
-const { createRoot } = wp.element;
+import { createRoot } from "react-dom/client";
 import App from "./App";
 
 if (document.getElementById("react-app")) {

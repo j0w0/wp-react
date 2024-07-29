@@ -1,5 +1,5 @@
 {
-  "name": "global",
+  "name": "j0w0/global",
   "title": "Global",
-  "script": "file:./global.js"
+  "script": "file:index.js"
 }

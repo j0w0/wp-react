@@ -1,5 +1,6 @@
 const { useState } = wp.element;
 import "./App.scss";
+import "../global/index";
 import { ExampleWebApp } from "./ExampleWebApp/ExampleWebApp";
 
 const App = ({ appName, postId }) => {
@@ -11,7 +12,7 @@ const App = ({ appName, postId }) => {
 
   return (
     <div>
-      <h2>This is coming from React!!!!</h2>
+      <h2>This is coming from React!!</h2>
       <p>
         App Name: {appName} / Post ID: {postId}
       </p>
